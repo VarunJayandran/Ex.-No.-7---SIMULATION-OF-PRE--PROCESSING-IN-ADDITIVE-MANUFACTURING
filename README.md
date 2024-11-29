@@ -39,14 +39,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![WhatsApp Image 2024-11-29 at 2 09 45 PM](https://github.com/user-attachments/assets/c11acf7b-927d-4e80-a0b5-43a66245a9fd)
+![WhatsApp Image 2024-11-29 at 2 28 40 PM](https://github.com/user-attachments/assets/0184eda0-92fd-4cdb-9e90-a0cf8506e1b3)
+![WhatsApp Image 2024-11-29 at 2 34 45 PM](https://github.com/user-attachments/assets/6b4c8ef4-4fa6-4f2c-bc34-69467b9d9c32)
+
 
 ## Output:
+![Screenshot (3)](https://github.com/user-attachments/assets/cf194ac7-cc36-4c48-94f8-ff281c9b329d)
 
-### Name:
-### Register Number:
+
+
+### Name: VARUN JC 
+### Register Number:24001611
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
